@@ -92,6 +92,48 @@
             <mxPoint x="550" y="422" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="wjiUaR1fQLSliIjbfwkh-8" edge="1" parent="1" style="endArrow=none;dashed=1;html=1;rounded=0;defaultLabelBackgroundColor=page;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="140" y="530" as="sourcePoint" />
+            <mxPoint x="190" y="480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wjiUaR1fQLSliIjbfwkh-9" edge="1" parent="1" style="endArrow=none;dashed=1;html=1;rounded=0;defaultLabelBackgroundColor=page;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="280" y="530" as="sourcePoint" />
+            <mxPoint x="230" y="480" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wjiUaR1fQLSliIjbfwkh-10" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#ffe6cc;strokeColor=#d79b00;" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 16px;&quot;&gt;Graph&lt;br&gt;Feature&lt;/font&gt;" vertex="1">
+          <mxGeometry height="50" width="120" x="100" y="580" as="geometry" />
+        </mxCell>
+        <mxCell id="wjiUaR1fQLSliIjbfwkh-11" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#ffe6cc;strokeColor=#d79b00;fontFamily=Times New Roman;fontSize=16;arcSize=26;" value="KNN" vertex="1">
+          <mxGeometry height="35" width="120" x="100" y="652.5" as="geometry" />
+        </mxCell>
+        <mxCell id="wjiUaR1fQLSliIjbfwkh-13" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;rotation=-90;fillColor=#ffe6cc;strokeColor=#d79b00;fontSize=16;fontFamily=Times New Roman;arcSize=20;" value="MLP" vertex="1">
+          <mxGeometry height="60" width="110" x="245" y="605" as="geometry" />
+        </mxCell>
+        <mxCell id="wjiUaR1fQLSliIjbfwkh-14" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;rotation=-90;fontFamily=Times New Roman;fontSize=16;fillColor=#ffe6cc;strokeColor=#d79b00;" value="Max Pooling" vertex="1">
+          <mxGeometry height="35" width="110" x="347.5" y="617.5" as="geometry" />
+        </mxCell>
+        <mxCell id="wjiUaR1fQLSliIjbfwkh-15" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;defaultLabelBackgroundColor=page;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="330" y="640" as="sourcePoint" />
+            <mxPoint x="385" y="640" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wjiUaR1fQLSliIjbfwkh-16" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;defaultLabelBackgroundColor=page;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="220" y="669.5" as="sourcePoint" />
+            <mxPoint x="270" y="669.5" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="wjiUaR1fQLSliIjbfwkh-17" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;defaultLabelBackgroundColor=page;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="220" y="610" as="sourcePoint" />
+            <mxPoint x="270" y="610" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
