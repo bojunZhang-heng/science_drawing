@@ -160,6 +160,9 @@
         <mxCell id="62vxpUE1_yAFdrLepUPP-351" parent="1" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;size=13;direction=east;flipH=1;fillColor=#ffe6cc;strokeColor=#d79b00;legacyAnchorPoints=0;" value="" vertex="1">
           <mxGeometry height="24.69" width="22" x="297" y="237.19" as="geometry" />
         </mxCell>
+        <mxCell id="62vxpUE1_yAFdrLepUPP-353" parent="1" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;size=3;direction=east;flipH=1;fillColor=#dae8fc;strokeColor=#6c8ebf;legacyAnchorPoints=0;" value="" vertex="1">
+          <mxGeometry height="8" width="30" x="320" y="253.88" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
