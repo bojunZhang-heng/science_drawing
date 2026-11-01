@@ -75,6 +75,15 @@
             <mxPoint x="399.5" y="600" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="nTv9kn3z-3XwwZ7pE0GB-28" parent="1" style="rounded=1;whiteSpace=wrap;html=1;roundedPerimeter=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" value="&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 16px;&quot;&gt;Updated Tokens &lt;b style=&quot;&quot;&gt;&lt;i&gt;S&#39;&lt;/i&gt;&lt;/b&gt;&lt;/font&gt;&lt;div&gt;&lt;font face=&quot;Times New Roman&quot; style=&quot;font-size: 16px;&quot;&gt;`(M \times d)`&lt;/font&gt;&lt;/div&gt;" vertex="1">
+          <mxGeometry height="60" width="150" x="320" y="690" as="geometry" />
+        </mxCell>
+        <mxCell id="nTv9kn3z-3XwwZ7pE0GB-29" edge="1" parent="1" style="endArrow=classic;html=1;rounded=0;defaultLabelBackgroundColor=page;" value="">
+          <mxGeometry height="50" relative="1" width="50" as="geometry">
+            <mxPoint x="399.5" y="660" as="sourcePoint" />
+            <mxPoint x="399.5" y="690" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
